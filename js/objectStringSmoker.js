@@ -26,3 +26,12 @@
 //         console.log(`${arInd.hello} ${arInd.name}, I\'am ${Math.floor(parseInt(arInd.age))}. ${parseInt(arInd.age) >= 18 ? "I can smoke." : "I can\'t smoke."}`)
 //     }
 // }
+
+// for (let i = 0; i < 3; i++) {
+//     if (parseInt(arr[i]["age"]) < 18) {
+//         console.log(arr[i]['hello'] + " " + arr[i]['name'] + ". " + "I\`m " + Math.round(parseInt(arr[i]['age'])) + " years old. I can\`t smoke")
+//     }
+//     else {
+//         console.log(arr[i]['hello'] + " " + arr[i]['name'] + ". " + "I\`m " + Math.round(parseInt(arr[i]['age'])) + " years old. I can smoke")
+//     }
+// }

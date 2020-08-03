@@ -14,7 +14,7 @@
 //   );
 // }
 
-// //2.
+// //2..a
 // let arrSum = arr
 //   .filter((element) => {
 //     if (typeof element === "number" && element > 0) {

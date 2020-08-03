@@ -37,4 +37,4 @@
 // //5.
 // // let arrNotNum = arr.filter(function (element) {
 // //   if (typeof element !== "number") return element;
-// // });
+// // })

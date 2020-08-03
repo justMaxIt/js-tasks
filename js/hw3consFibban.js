@@ -7,12 +7,12 @@ newFib() // 3
 newFib() // 5
 newFib() // 8
 ... */
-
+// let a =[]
 // function fib(a) {
 //     if (a[0] === undefined) {
 //         a.push(0)
 //     }
-//     if (a[0] === 0 && a.length === 1) {
+//     else if (a[0] === 0 && a.length === 1) {
 //         a.push(1)
 //     }
 //     else { a.push(a.reduce((accum, value) => value + a[a.length - 2])) }
